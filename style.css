@@ -1,0 +1,13 @@
+table, td, th { 
+padding: 15px;
+}
+
+td {
+text-align: center;
+}
+
+th {
+
+    background-color: darkcyan;
+    color: white;
+}
