@@ -1,9 +1,11 @@
 table, td, th { 
 padding: 15px;
+border: 1px solid lightgrey;
+border-collapse: collapse;
 }
 
 td {
-text-align: center;
+text-align: left;
 }
 
 th {
@@ -11,3 +13,4 @@ th {
     background-color: darkcyan;
     color: white;
 }
+
