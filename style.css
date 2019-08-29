@@ -4,9 +4,6 @@ border: 1px solid lightgrey;
 border-collapse: collapse;
 }
 
-td {
-text-align: left;
-}
 
 th {
 
@@ -14,3 +11,7 @@ th {
     color: white;
 }
 
+.fila {
+text-align: center;
+
+}
